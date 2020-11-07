@@ -1,0 +1,200 @@
+
+					cmd commands
+					************
+============================================================================================
+defrag C: /U			> defragmentation desk
+
+cd Desktop			> into in Desktop
+cd..				> bo to back
+cd/				> go to root
+============================================================================================
+net user				> show system users
+net user /add fady 12345		> add new user and set his pass
+net user fady *			> change pass user fady
+net user Adminstrator *		> change adminstrator pass
+net user /delete fady		> delete user
+============================================================================================
+ipconfig/all			> show all info about network
+systeminfo			> show all info about system
+tasklist				> show all tasks
+driverquery			> show all drivers
+MsBackup			> create backup
+label				> edit partation name
+color 1a				> change background and font color
+title				> title prompt
+tree				> view like tree
+md				> make directory
+md mina				> make direktory by name mina
+hostname			> view pc name
+cmd				> view system version
+start				> start any process
+start Notepad			> run note pad
+type mina.txt			> view content this file in cmd
+============================================================================================
+prompt mina top/
+prompt $D
+prompt $Q
+prompt $T
+============================================================================================
+time				> view and change time
+date				> view and change date
+============================================================================================
+dir				> view all files and directories
+dir /ah				> view hidden files
+dir /as				> view system files
+dir /o				> view sorted files
+dir /s				> view all files in this pc
+============================================================================================
+shutdown /s			> shutdown pc
+shutdown /h			> hibernate
+shutdown /s /t 120			> after seconds
+shutdown /s /t /c"comment"		> shutdown with view comment
+shutdown /r			> restart
+shutdown /a			> cancel
+============================================================================================
+attrib mina.txt +r			> read only
+attrib mina.txt -r			> cancel read only
+attrib mina.txt +h			> hide  file
+attrib mina.txt -h			> cancel hide
+============================================================================================
+del				> delete file
+rd				> delete directory
+rd /s				> delete directory not empty
+rd /q				> delete directory without question
+rd /s /q				> delete directiry not empty and without question
+ren				> rename
+copy				> copy file
+xcopy				> copy dirctory not empty
+move				> move file or directory
+============================================================================================
+format /s				> format
+format /q				> quick format
+format /y /q c:			> format to partation c
+path;				> destroys boot
+============================================================================================
+============================================================================================
+					network command
+					~~~~~~~~~~~~~~~
+============================================================================================
+============================================================================================
+get ip any website
+*******************
+
+1\ nslookup
+2\ enter
+3\write domain name
+or
+1\ ping google.com
+============================================================================================
+shaw all mac adress special to any ip saved in this pc
+*******************************************************
+
+1\ arp -a
+============================================================================================
+get ip adtress this pc
+***********************
+
+1\ ipconfig
+2\ default gateway
+============================================================================================
+show all open ports
+********************
+
+1\ netstat -a
+============================================================================================
+view all trogan or keylogger
+*****************************
+
+1\ regedit
+2\ key local machine
+3\ software
+4\ microsoft
+5\ windows
+6\ run
+============================================================================================
+============================================================================================
+				Batch Script
+				*************
+============================================================================================
+============================================================================================
+set x=mina			> text variabl
+set /a x=5			> integer variable
+set /p x=				> input variable
+%a%				> call variable
+pause				> wait
+goto :eof
+@echo off
+echo
+goto
+rem  // ::
+:mina
+goto :mina
+equ
+neq
+lss
+leq
+gtr
+geq
+call :mina				> call function
+============================================================================================
+if statement
+*************
+
+if %a% equ %b% 
+(
+echo hello worled
+)
+else
+(
+echo sorry
+)
+============================================================================================
+for loop
+*********
+
+for %%i in (5,8,4,7) 
+do 
+(
+echo %%i
+ )
+============================================================================================
+another for loop
+*****************
+
+for /l %%i in (1,1,100) 
+do 
+(
+echo %%i 
+)
+============================================================================================
+ÚÑÖ ãáÝÇÊ ÇáãÓÇÑ ÇáÍÇáí æØÈÇÚÊåÇ
+*******************
+
+for /d %%i in (*) 
+do
+(
+echo %%i 
+)
+============================================================================================
+view files and print it
+************************
+
+for %%i in (*) 
+do 
+(
+echo %%i 
+)
+============================================================================================
+print statement and save in external file
+******************************************
+
+echo welcom mina top >mina.txt   
+============================================================================================
+============================================================================================
+============================================================================================
+============================================================================================
+============================================================================================
+============================================================================================
+============================================================================================
+
+

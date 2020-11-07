@@ -1,0 +1,370 @@
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmyo/:----:/oydMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMh+.`            `.+hNMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNy-`       ````        .sNMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMd:`:o- `````````````` .o:`-dMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMh.soh:`` `````//-```` ``-hos.yMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMd/ods/`` ``  ` .+.`  `` ``/yho+hMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM:hshs`   `  ```-:```  `   `ohod-MM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN/sdy.`   `  ```.-```  `   ``ydy+mM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMd/ysh `   `:+sh--+`do/:.`  ` hysohM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN-hdo-`   -NMMM--o.MMMMo   `.odh:mM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMohyss``` oMMMMhohyMMMMh````osyhoMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm/dhdo.` dMMMMMNMMMMMMN``.shdd+dMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMdohhod--NMMMMMMMMMMMMM--hohhohMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm+syhhsNMMMMMMMMMMMMNyhdys+dMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMhsosssyNMMMMMMMMmyssssshMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMdyosyMMMMMMMMMmossydMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmdMMMMMMMMMNhmMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMhmMMMMMMMMMMMMMMMMMNdMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN:`yMMMMMMMMMMMMMMMMMh.:NMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm-   +NMMMMMMMMMMMMMN+   -mMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM:     `+mMMMMMMMMMmo`     :MMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMh        :hNMMMNh/`       hMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.       `ohdmmho.       .MMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMd`     /mNmdddNMN+      hMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNo   `://.`..-`sh/s`   +NMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMo/  s:-:mmydd+..--y` :sMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMy:-+:  `o:-.`::-./:o.:yMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN`/+  `o/:-::-.`  .+/`NMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM/    -+``....     : /MMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMh    :os+-.`      / hMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM-   `syNd+       -+MMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMy    .mNNd+-      hMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.   oNNNNoo`     +MMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMy  `mNNNMso.     `MMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM: sNNNNMdo.      dMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMh-NNNNMMMh+`    `yMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNdNNNMMMMMdo:``-sNMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNMMMMMMNhooyMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNMMMMMMMMMNdMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNMMMMMMMMMMMMMMMMMMMMMMM
+
+
+
+
+
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNMNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNMNNNNNmmmNNmNmNNMMNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNdydooo+oohossymsyo+syhooyhMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNmmmdNdmddmdNdmdmNdmhmmdmdmddmNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNhosyhsysmsoysNoysydsosyysysNyssymNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmmdNmdmdNdNddmhNddddmdmddddNdNdmmhmmNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMsyyNhsysNsNshyshoysysyNssyymsNydhsysymMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNhmmNhdddmhmddmdmhdddmdmhdddmhmddmdmhddNMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMyosdhsosyosssoososossososossssssossos+syMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNmdmNNddmdNdmddmdNdmmdmdmdmmdNdNdmmdNdmdNMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMddymyNshdsNsNshdsNsmhhmyNsdhymsNyddymomyNMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmmNNhNdmmmNNNNNNNMhmmdNhNNNNNNNNmmmhmhNdMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMddNdsdsdmNMMMMMMMMydhydmMMMMMMMMNdhymsmyMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+echo NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNdmmhmdNMMMMMMMMMNddddmNMMMMMMMMMNddMddmMMMMMMMMMMMMMMMMMMMMMMMMMMMNmN
+echo ydNMMMMMMMMMMMMMMMMMMMMMMMMMMMNsyysoyNMMMMMMMMMhs+ssoyNMMMMMMMMmoyNysMMMMMMMMMMMMMMMMMMMMMMMMMMMmhyh
+echo ddmmNMMMMMMMMMMMMMMMMMMMMMMMMMNNMMdmhdmMMMMMMMmNdNNNNdmdNMMMMMmhdmNNMMMMMMMMMMMMMMMMMMMMMMMMMMddddhd
+echo sssssdMMMMMMMMMMMMMMMMMMMMMMMMMMNNsysoshNmNdhhsNsMMMMhhsodmNdhsosymyMMMMMMMMMMMMMMMMMMMMMMMMNh+sssss
+echo dmmhmhddNMMMMMMMMMMMMMMMMMMMMMNdmNdmhhddNhdhhdhmmMMMMMNhhddNhdhhdhmhMMMMMMMMMMMMMMMMMMMMMMMmNhhhmmhm
+echo shhsoo++ymNMMMMMMMMMMMMMMMMMMMMdymshssysdsssosshMMNMMMmsoyydssoosshdMMMMMMMMMMMMMMMMMMMMMmdydsosdyyd
+echo MmmmMmmddNmdmMMMMMMMMMMMMMMMMMMMMMNNNMMMMdNmdmdNdddmNmdhmmdmmMMMMMMMMMMMMMMMMMMMMMMMMMNmdmNddhmmdNMM
+echo MMdsNssosNysydNMMMMMMMMMMMMMMMMMMMMMdmNMMmNsoysNoysydssshyymMMMMMMMMMMMMMMMMMMMMMMMMNNyyshhyssyydMMM
+echo MMMNMmNdhmmhdhmdNMMMMMMMMMMMMMMMMMMMdddMMMMNmmhmdddhddNdddMMMNdNMMMMMMMMMMMMMMMMMMNmhdddhdddNmMMMMMM
+echo MMMMMNmoshyysshsNydNMMMMMMMMMMMMMMMMdyyhMMMMNmmmdmyddyNyhNMMhNydNMMMMMMMMMMMMMMMMhdhsyyyyyyymMMMMMMM
+echo MMMMMMMMdhyyhyhyhyyhydNMMMMMMMMMMMMMMhhhdMMdymNhhNhdmymhhMMNhhyyMMMMMMMMMMMMMMdhhyyhhhhyhhmMMMMMMMMM
+echo MMMMMMMMMmyyyyyyyyyyyyymNMMMMMMMMMMMMhyyhMMNNMNydMhmmdmmsMMmyysyMMMMMMMMMMMMdhyyyysyyyysymMMMMMMMMMM
+echo MMMMMMMMMMMMMdNhNddNdNdNddNNMMMMMMMMMmNdNdMMmNMMdNNdNMMdMMdNhNdMMMMMMMMMNMdmdmNNNdmmdNmMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMNNsNyhmyNyNyhmyNmMMMMMMMmdyNyNNddNMyNmhmNNsNmhmyNhMMMMMMMNNyNymhNNyNydhdNMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMNMNdNhMdNdddydhmmdNMMMMMNNhNdddydhmmdmydhmmdNdMMMMMMNNddmymMNmdNhNhMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMNNyNyNhhhydyddhdhMMMMMMdNydhydymhhdydyddhNMMMMMNNymhdmNNdmhdmyNNMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMmhyyyyyyyhhdyyyhmmNMMMddhhyyhyyyyydNMMNmdyyyyhNNNdyyydddNMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMmhyhyhyyhhmmhyhdhddNMMMMNNNNNNNmNNMMMhdyyhhmNNdhhyhymNMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMmNhdmdNhdydMmdyyyyhdMNMMMMMNmyhyhymmMmdNyNddmmMMMMMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMmddhmydyyddNNhyyhyNhNmMMMmyyhhdNNmhhhmymhNNMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMhdsyhhNMMMMMMMMMMNNddyshhmyydmNmNdhyhNhdddNMMmNddddNNMMMMMMMMMMMMMMMMMNhhydmdNMMMMMMM
+echo MMMMMMMMMMMMMMMhdyydhmmMMMMMMMMMMMNmhydhmyhyhddNNNmdmhdyhddNmMMNMMMMMMMMMMMMMMMMMMMMNmhdhddhmNMMMMMM
+echo MMMMMMMMMMMMMMMMMdydshyMMMMMMMMMMMNNmmNdmhNhsyyNyyyhmmNmmmhdyNhyyhmhmNNMNMMMMMMMMMMNhmyyyNMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMdmhmhNMMMMMMMMNNdmhdddNNMdhddNhdhdmhmdMMNNmNddddNhddmmdNNMMMMMMMMmdmhdmMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMNhyNhNhNMNmhhyyhhNmNNmNhNhddmNNmdhhhNyyyhNyNdNNNNNmdhhhNhyydNNNymdshmNMMMMMMMMMMmN
+echo MMMMMMMMMMMNMNMNMNMmhNhNhdmNMNNmmmmNdddhNhNhddmNMMMNNmNhhddNhNhmdhmdNNNNmNmmmNNhNhmdhdNNmNNmNdmdNNdN
+echo NNdyyssmMMdsssssssymssssssssdMNhssssssyhddMMMMMMMMMMMMMMMMMMddhyyyssoyyyssyyNdyyssosNdsosyyyssosyNdy
+echo mdhhhyhdMNhhdhdhdhhmddhdhhdhmMmddddddmNMMMMMMMMMMMMMMMMMMMMMMMMMNNddhdddddhhNNdhdhhdMdhhhddddhhdmNhd
+echo hdmdMdNmNNhdmhNyNhdNMNyNhhmsMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNdmyNyddMMNNNMMNMNNNNNhN
+echo dNNMMNMMMMNNNNMNMMMMMMdNddNhMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmmdNhmNMMMMMMMMMMNdmmNM
+echo MNNdMdNNMMMMMMMMMMMMMMMNhhhshhNNdddmMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNdmNmNNNdhmyNhMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMNdmhmhdmddhmNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNddmhmhmddmdNNMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMddhyhhddNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNhhyyyyhhymNMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+
+
+
+
+
+
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMNmdhhhdmNMMMMMMMMMM
+echo MMMMMMMMMMy-`         `-yMMMMMMM
+echo MMMMMMMMMd `..`     `--` dMMMMMM
+echo MMMMMMMMM+-:+ymh. -dNy+-.oMMMMMM
+echo MMMMMMMMM: /++:y: .o/++: +MMMMMM
+echo MMMMMMMMM:osoo+sh  -++++:oMMMMMM
+echo MMMMMMMMMy`    yy       `yMMMMMM
+echo MMMMMMMMMdyy/-sho  -`-osyMMMMMMM
+echo MMMMMMMMMMh+dyshh+h+oydsmMMMMMMM
+echo MMMMMMMMMMMd+h://:/:-:smMMMMMMMM
+echo MMMMMMMMMMMMNo. sM: `oNMMMMMMMMM
+echo MMMMMMMMMMMMMMs`hM:.yMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMNmMdMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+
+
+
+
+
+
+
+echo MMMMMMMMMMMMMMMN+.````     ```       +MMMM
+echo MMMMMMMMMMMMMMMNhyo/.``     ```.-:.` `NMMM
+echo MMMMMMMMMMMMMMMNhhmNNh+.``.:ohNNdhso` hMMM
+echo MMMMMMMMMMMMMMNmdhhNMMNo--smMNy/.```-`ydNM
+echo MMMMMMMMMMMMMMmmNNMMMMNy``+mNmmmdho/..+mMM
+echo MMMMMMMMNMMMMMh--:+sso:`   .oyhhy/:.-`+NMM
+echo MMMMMMMh.yMMMMmhyo/.            `...``sMMM
+echo MMMMMMM+ sMMMMMNMMNho/      -/+oyddh//NMMN
+echo MMMMMMM+ yMMMMMNmMNo--/:/-:+--/smNms:dMMMN
+echo MMMMMMd  :MMMMMNdhmmdhmMMNMhoosddyo/sMMMMM
+echo MMMMMMo  sMMMMMMNyosoohdhhmdyssyy++oNMMMMM
+echo MMMMMM.  oMMMMMMMho/ooyddmmdyoos+ohsyMMMMN
+echo MMMMMMy/oNMMMMMMh:ho.`.mMMh//++ohmh+.NMMMm
+echo MMMMMMMMMMMMMMMd-`:ys-.mMMyoyhdNMd/` mMMMN
+echo MMMMMMMMMMMMMMd.` `./ydNMMNNMMMd+.` -MMMMM
+echo MMMMMMMMMMMMMMs/     `:ymMMMNh+-```.dMMMMM
+echo MMMMMMMMMMMMMMo+       `:yNh:.```.-hMMMMMM
+echo MMMMMMMMMMMMMMd+       /mMMMm/...:hMMMMMMM
+echo MMMMMMMMMMMMMMNo``    sMNMMMMMo-/yMMMMMMMM
+
+
+
+
+
+
+
+
+
+
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMNds+/:::::///ooosoo++++//::/yMMMMM
+echo MMMMMMMMMMMMMMmy/-....`````````````````   `oMMMM
+echo MMMMMMMMMMMMMNd:.````````````````````      `mMMM
+echo MMMMMMMMMMMMMMmmmhs+:.````````````.-:::-` ``sMMM
+echo MMMMMMMMMMMMMMNddmNNmds:..````./ohmmmNmhy/``/MMM
+echo MMMMMMMMMMMMMNds+ohNMMNdo:--+shdNMNh+-..-:.`-MNN
+echo MMMMMMMMMMMMNdmmmddmNMMMd/--/hNMNh+:-..```:`/mhm
+echo MMMMMMMMMMMMNmNMMMMMMMNNN/``.hNmmmNNmdyo::``+oNN
+echo MMMMMMMMMMMMNs/+oydmNNmho`  `.odNNNNNmyy+//` yNM
+echo MMMMmdMMMMMMN+:.`..---.``     `.:///:-`` ```.dNM
+echo MMMh..dMMMMMMhdhso/.`             ````....``/dMM
+echo MMM/  hMMMMMMmNNNNds+/:        .---:+ssyys:-yMMM
+echo MMMy`.NMMMMMMNdMMMNmy+:`      `-oydmmNNNNs//NMMM
+echo MMN+ `hMMMMMMMmdNNN+.`:o/+o//sy:`.-+yNdmh/:dMMMM
+echo MMy   /MMMMMMMNdhdNNdhsmMMMMMms///ohNyys/:oMMMMM
+echo MMs  `hMMMMMMMMmyshhddmMMMmNMMNmmddhyyo+/oNMMMMM
+echo Mm.  `hMMMMMMMMNmo+so/:shoosymy+++osh+++ohMMMMMM
+echo Mh    sMMMMMMMMMdd+:soshdmmmmmmhyoos+/+hh/dMMMMM
+echo MN-``+NMMMMMMMMM:hy+--.-hMMMNso/+++++ymdy/-MMMMM
+echo MMNddNMMMMMMMMMs./dy/```sMMMm:/+++oymNmy+` mMMMM
+echo MMMMMMMMMMMMMNy.`.:hdo-.yMMMdssyhdmNNNh/`` dMMMM
+echo MMMMMMMMMMMMMs.````./hhhmMMMNmmNMMMNd+-```.NMMMM
+echo MMMMMMMMMMMMN:.``````./hNMMMMMMMMNdo-..```yMMMMM
+echo MMMMMMMMMMMMho/````````.:sdNMMNmh+-......+MMMMMM
+echo MMMMMMMMMMMMoh-``````````.-ommo:-......-+NMMMMMM
+echo MMMMMMMMMMMMyd:``  ``  ``-hMMMMh-.....-+mMMMMMMM
+echo MMMMMMMMMMMMmm:``      `+NNMNMMMN+..-:+dMMMMMMMM
+echo MMMMMMMMMMMMNm/`.`    `oMNNNMMMMMM+-:+hNMMMMMMMM
+echo MMMMMMMMMMMMMmo...`  .hMMMNMMMMMMMMo+hmMMMMMMMMM
+echo MMMMMMMMMMMMMMh-/:. :hohNMMMMMMMMMMNhmNMMMMMMMMM
+echo MMMMMMMMMMMMMMdomysom/ohNMMMMMMMMMNmNNMMMMMMMMMM
+
+
+
+
+
+
+
+
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNmmNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMms+:.`        `.:/sNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMy`                  .mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.  .--`        `--.  -MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMd .::ohdds`  .sddho::. mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMs      -oh.  -ho-      hMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMNoMMMMMMMMMMMMMMMMMMo -sdmdy/os  ../ydmds. sMMMMMMMMMMMMMMMMMMhMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMM-:mMMMMMMMMMMMMMMMM+`+/::::-od    --.---..yMMMMMMMMMMMMMMMMm:oMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMm``oNMMMMMMMMMMMMMMm.       yd            dMMMMMMMMMMMMMMNo`-MMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMd` `sMMMMMMMMMMMMMMs+---.-sNh   .` .``./sMMMMMMMMMMMMMMy. -NMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMm-  -hMMMMMMMMMMMMhosy. -/s/    . `:doomMMMMMMMMMMMMm:  :NMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMN+   -hMMMMMMMMMMMh:yhdyohm/sd+/ohho/hMMMMMMMMMMMN+   /MMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMh`   :dMMMMMMMMMMd-ho::+/.:oo/:`+/dMMMMMMMMMMm+`  `sMMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMN+    :yNMMMMMMMMm:y-`.:ss`  `:/NMMMMMMMMMh:    :mMMMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMd/    `/dMMMMMMMMs-  /Nm`  .oMMMMMMMMd+`    /dMMMMMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMd/`    .sNMMMMMMh- sNN` :dMMMMMMms-    `+mMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNo.   .-/hMMMMMMyyMmodMMMMMNs-     .sNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMy:  :+/./hNMMMMMMMMMMds::oo. .+dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMmmMMMMMNy:``/++-/sdNMMdo:-/oo:`.+dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMo` oMMMMMMMNy/``:++/-:+oody- -odMMMMMMMh+omMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMN/`dMMMNmhyo//+o:``:+++:.:+ohmNMMMMMM+ `smMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMo:+dyysyd/ :s+:-:+++++/-/sy+-`.:/++:.`.:+hN+ :NMMMMMNMMMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMN` `d-``..sd. -d/---/+shmNMMMMMdyo/--/osdh:``oy//::/h `hMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMNhyymMMMMMMo -NMMMMMMMMMMMMMMMMMMMMMMmdhN` hNsssooh+ .hMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMs.`/+/hMMMMMMMMMMMMMMMMNhdmy- +MMMMMMMhhMMMMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmyyhMMMMMMMMMMMMMMMMMNo::/smMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+
+
+
+
+
+
+
+
+
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMm`    `:+osoo/-`               `:+osyso/.     yMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMs   :ssooyhdmNMMdo.         .odMMMmdhhsoss:   +MMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMM/  :-   `/+sddyyNMMy`     `sNMMhhddso/`   .:` -MMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMM.            -ymyhmN-     .Nmyymh:`         ` .NMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMN`              .sNh:       .yms-              `NMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMm      `:/+++/-`  /NN:      hs.  `-/+o++:.      NMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMm    :hNMMMMMMNNy+`oMm`     ` `/ymMMMMMMMNd/    mMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMm  :dNMMMMMMMMMMNm+oMM-       /mNNmmmmmmmmmho+:-dMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMm  :s+/:---.....`` oMM+        ````````````` ```dMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMN`                 yMM.                         dMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMs`               `NMM.                        `mMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMNd`              :MMM-                        oMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMy+y:`          ./mMMM.      -`             `:sMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMN-+Nhso//////-+NNhNMm`      -//  `:::--::/od:yMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMd`sm/Nd-``   oMs`dMs         +   ....oNm/Ns.NMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMy`os/Nm/`    :.`hM/               `oNd.+h`yMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMs`/s+mMmy+-.` `:Ny:..-/y:     `.+dMh.+y`+MMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMs`-ysodNMNmdhdNMMNysmMMNho+shdNMmo:hy`/NMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMy``ydo:/sdmNMMMm+` :dMMMMMMNds/-/mo`+NMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMh``oNm+.`.-::://///+soo+/-.`  -y/`oMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMd- /NMh:.```                -s..yMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm: /Ny  `.--+yosys-       :+`-dMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN+`/y      `mMMMy`      /: /NMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMs`+-     .mMMM/      `.`oMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm/`     hMMdMm`      .hMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMy`    dMMdMN.     /mMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMd-   +MMMMy    .yMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNo.``mMMM- `-sNMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNdyNMMMyymMMMMMMMMMMMMMMMMMMMMMMM
+echo MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+
+
+
+
+
+
+echo mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+echo mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+echo mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmddddddmmmmmmmmmmmmmmmm
+echo mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmdso+/:-..........-:/+oydmmmmmmm
+echo mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmh..````````````````````.-dmmmmmm
+echo mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm/````````````````````````smmmmmm
+echo mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm.````````````````````````:mmmmmm
+echo mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmh``.-///:-```````.-///:-``.mmmmmm
+echo mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmms`-++++syhh+...-ohddhysys:/yhmmmm
+echo mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmdhs///////+oo+/:::/::-----.....ymmm
+echo mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm+.......```````````````````````smmm
+echo mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmo````````````.....----::::::/++ymmm
+echo mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmh/+//++++oooooo+++++//////:::dmmmmm
+echo mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmy/:--...........```````.:smmmmmm
+echo mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmshyy+:.`...```....`.:oyhshmmmmmm
+echo mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmd/hyh+-`:/ys/+ys/-.-odyh+mmmmmmm
+echo mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmh+s+hhysydmhdmdysyhh+y/dmmmmmmm
+echo mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmh+o-:/+oo/.-+oo+/:-o+dmmmmmmmm
+echo mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmd+-`````.--.`````:+dmmmmmmmmm
+echo mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmo.````odd/````-smmmmmmmmmmm
+echo mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmh:.``dmms``./dmmmmmmmmmmmm
+echo mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmo-`ymm+.-ymmmmmmmmmmmmmm
+echo mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmdoomm+smmmmmmmmmmmmmmmm
+echo mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+echo mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+
+
+
+
+
+
+
+
+                                                                                                    
+echo                                                       ``........``                                  
+echo                                                  .-::::--...````........`                           
+echo                                               `:++/:---...``````````````.-..`                       
+echo                                              .oo/::---..`````````````````...--.`                    
+echo                                             -hysso+/:-...````````````````....--:-`                  
+echo                                            -mNNMNNmmhyo:..```````````````....---:+-                 
+echo                                           :mNmhhmNMMMNdhs-.``````.-::+ossso+/----/so`               
+echo                                          -ys+/::/sdNNMMNdo..`..:syydmNNNNNNNmdy+/:/ys`              
+echo                                         .o/:---.--:odNNy/-````.-+hNNNmddhhddmNNNmh+oh/              
+echo                                        `o+/+sssoo++/smNd/`````:sdNmhs+//:::::/ohNMd+sy              
+echo                                        .s+hhhdmmmdysyhoo/````/mNmy+:-..........:yNmysd-             
+echo                                       `hhdddmNNNMMNmdy+:.` `./hdsoooooooo+o/....-sddyd:             
+echo                                      `/yso+osoooo+//+:-.```.-:/+mdhdmmNmdhyhh/.-:oddhd-             
+echo                                     ./+/:--....`````...`  `-:---/ysyhdNMMMMNdm/-/odddd.             
+echo                                    .oo+//:-....````...`  `./:--...--:///+syyyymosydydh              
+echo                                    /yo++/:--.........`````-:---.``````..--://+yhhy++ds              
+echo                                    hdyo++/////+o:..:-.....:/-...```````.........:os+m:              
+echo                                    smNmdddmmdhyohdhhhysoosys:...-:-.``...........-soh`              
+echo                                    +yMMMNyo/:-.-ydmNNMMNNMNNhys++dds:.....----...:yy/`              
+echo                                    :hNMMd:----...:hMMMMMMMMdhddhy//ydy+:--------:om+`               
+echo                                    `ymmMMhsooo++smMMMNmMMMMd:--:-.../yddyo++//+shmh``               
+echo                                     +hmmMMMMMMMMMMNdo:-sMMMMd/........:omMNNmmNNhy.`                
+echo                                     -smdysyhdmmNNNmso+/:hMMMMNdy+/:--:odNMMMMMNs+-                  
+echo                                     `oyNmho//://+ossyhhddNNNMMMMMMNmmNMMMmdNMNds:`                  
+echo                                      -shNmmmdyso+/::---:://+ossyhdmmmNmhydNmhys-``                  
+echo                                      `osdmyyhhddmmmddhys+//////++++++shmMmyoo+.                     
+echo                                       .ssmho++///omMMMMMNmmmmmmmmNNNNMMNyoo+.`                      
+echo                                        -yyds+//:::dMNNMh+++oooosydNNNmy+++-``                       
+echo                                         +syyo//:/dMMNMN+:///+osymNNds++:.``                         
+echo                                         `ooyo+//yMMmNMN+///+osyddsoo+:`                             
+echo                                          `syso++mMMMMMh//++osysooo/.                                
+echo                                           .yhsooNMMMMm+++oosssso:`                                  
+echo                                            `ohysNMMMNsoosyyhho-                                     
+echo                                              -sdMMMMdhhhdhs:`                                       
+echo                                                ./+sso+/-`                                           
+                                                                                                    
+                                                                                                    
+
+
+
+
+
+
+

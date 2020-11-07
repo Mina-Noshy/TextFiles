@@ -1,0 +1,52 @@
+﻿{
+
+  "users": [
+    {
+      "name": "mina top",
+      "id": 3010,
+      "job": [ "develpoer", "designer" ]
+    },
+    {
+      "name": "nabil top",
+      "id": 1254,
+      "job": [ "carpenter", "songer", "artest" ]
+    },
+    {
+      "name": "fady top",
+      "id": 5598,
+      "job": [ "programmer", "lawer" ]
+    },
+    {
+      "name": "lobna top",
+      "id": 1958,
+      "job": "web develper"
+    }
+  ],
+
+
+
+  "employee": [
+    {
+      "name": "mina top",
+      "id": 3010,
+      "salary": 2500
+    },
+    {
+      "name": "nabil top",
+      "id": 1254,
+      "salary": 5800
+    },
+    {
+      "name": "fady top",
+      "id": 5598,
+      "salary": 4500
+    },
+    {
+      "name": "lobna top",
+      "id": 1958,
+      "salary": 3000
+    }
+  ]
+
+
+}

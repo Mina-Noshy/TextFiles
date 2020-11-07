@@ -1,0 +1,252 @@
+
+				terminal commands
+				*****************
+============================================================================================
+============================================================================================
+normal commands
+***************
+
+man ls				> view help to any command 
+ls				> view all files and directory in current path
+ls -a				> view all files
+ls -l				> more details
+ls -la				> all files by more details
+la -lah				> important command
+cd Desktop			> into desktop
+cd ..				> go back
+cd /				> go to root
+clear				> clean the screen
+date				> view date
+cal				> view calender
+less				> write in text file
+cat				> show content text file
+free				> info ram
+pstree				> view like tree
+exit				> exit
+pwd				> print  working  directory
+============================================================================================
+============================================================================================
+users
+*****
+
+su fady				> use this machine like strange user
+logname		    		> current user
+users		     		> all users
+last		    		> last user
+who	        		> all users
+history				> all used commands
+sudo su	         		> into root
+passwd				> change password
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+useradd  fady			> add user
+passwd  fady			> set password
+groupadd  fadmily		> create users group
+usermod -a -G family  fady	> add user to group		
+userdel -r mina			> remove user
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-a = add
+-G = group
+sudo = super  user  do
+apt = advance  package  to
+============================================================================================
+============================================================================================
+directories & files
+********************
+
+mkdir				> make directory
+rmdir				> remove directory
+rm				> remove files
+rm -r				> remove directory
+touch	  			> make file
+tee	      			> make file and write in it
+tee top				> example
+tee -a  top			> append
+mv				> move
+cp	    			> copy
+ln -s	  			> make short cut
+bash  top.sh			> run execute file
+locate asd.txt			> search about file and view this path
+find /root/ -name "asd.txt"	> search about file
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+rm -r mina/*			> remove all file in this directory
+cp -r mina/*  top		> copy all file from this path to other directory
+cp Desktop/mina/*		> copy all files in this pass
+cp /mina/*.txt  Desktop/top	> copy all file in this path to another path
+ls -l / > mina.txt		> write execute in text file
+ls -l >> mina.txt		> append execute in text file
+echo "mina top" > top.txt	> write in new text file
+echo "mina top" >> top.txt	> append in exist text file
+============================================================================================
+============================================================================================
+filter data or text
+********************
+
+grep asd top.txt				> search about asd word in top file
+diff asd.txt mina.txt				> show different in tow files
+ifconfig | grep -i "inet" | cut -d ":" -f 1	> get first spice from the line in text file
+ifconfig | grep -i "inet" | cut -d ":" -f 2	> get last spice from the line in text file
+head -n 20 top.txt				> view top 20 lines
+tail -n 20 top.txt				> view last 20 lines
+tail -f /var/log/apache2/access.log		> view last login in apache server
+tail -f /var/log/apache2/err.log		> view last error in apache server
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cat asd.html | grep -i -O "[a-z0-9]" * yahoo.com | sort -u tee top.txt
+>get subdomain from html file
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-i	>gont change upper case or small case
+-O	>only
+-u	>unicue
+============================================================================================
+============================================================================================
+applications
+************
+
+sudo apt-get update			> uppdate the system
+sudo apt-get upgrade			> upgrade the system
+apt-get install firefox			> install application
+apt-get remove firefox			> remove application
+apt-get autoremove firefox		> remove application with any application bteen relation ship
+apt-casho search firefox		> search in linux store for any application
+dpkg --list				> show all app in this machine
+dkpg --status firefox			> show finding status this app
+find					> search about app in this machine
+============================================================================================
+============================================================================================
+run & stop computer
+********************
+
+shutdown -p	   		> shut down
+shutdown -H	   		> hybernate
+shutdown -h	 		> sleep
+shutdown -r	 		> restart
+shutdown -k	  		> show comment befor shout down
+shutdown -c	  		> cancle procces shutting down
+sleep 300			> sleep after 300 second
+at 19:52 shutdown -p		> shut down in this time
+killall				> kill all process
+============================================================================================
+============================================================================================
+exctract files
+**************
+
+gzip / tar			> apps for exctract files
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+gzip  cvf  top
+gunzip  xvf  top.gz
+tar  cvf  asd.tar  mina  kero  fady        > exctract more files in one file
+tar  xvf  asd.tar
+tar  -zxvf  top.gz
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+c = create
+v = view
+x = extract
+f =  file
+============================================================================================
+============================================================================================
+permissions
+************
+
+ls -l	when useing this command
+show items after -rw-rw-r--	
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+w = write
+r = read
+x = execute
+- = no permissions
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+u = user
+g = group
+o = other
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+chmod	= change mode
+chmod  u+w  mina.txt		> add write permissions to user
+chmod  u-w  mina.txt		> cancle write permissions from user
+chmod  g+r  asd.txt		> add read permissions to group
+chmod  g-r  asd.txt		> cancle read permissions from group
+chmod o+w  top.txt		> add write permissions to other
+chmod o-w  top.txt		> cancle write permissions from other
+chmode  u-- mina.txt		> cancle any permissions
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+0 = - = no permission
+1 = x = execute
+2 = w = write
+4 = r = read
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+3 = write & execute
+5 = read & execute
+6 = read & write
+7 = read & write & execute
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+chmod 4 2 0 top
+chmod 7 7 7 top			> add all valiadities to user and group and other
+chmod 0 0 0 top			> cancle all valiadities to user and group and other
+chmod 1 0 5 top
+============================================================================================
+============================================================================================
+system commands
+***************
+
+jobs			> view procces
+ps			> view current process
+ps aux			> view all current process
+kill {process id}	> syntax
+kill 12354		> stop process
+kill -9 13254		> stop force process
+df -h			> view details about hard disk
+top			> view using the processor and ram
+============================================================================================
+============================================================================================
+network commands
+*****************
+
+ifconfig		> info about my ip
+route			> info about my router
+netdiscove		> view all ip in current network
+whois google.com	> get ip by domain
+whois 123.465.798.125	> get domain by ip
+nslookup google.com	> get information
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+get ip any web site
+*******************
+
+1\ nslookup
+2\ enter
+3\ write here web site domain
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+show all mac saved in this machine
+***********************************
+
+1\ arp -a
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+test do connect with any ip or any domain
+*****************************************
+
+1\ ping  xx.xx.xx.xx
+2\ ping  google.com
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+show all open ports
+********************
+
+1\ netstat -a
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+write my name on terminal
+**************************
+
+1\ apt-get install figlet
+2\ leafpad .bashrc
+3\ figlet "mina top"
+============================================================================================
+============================================================================================
+hacking commands
+****************
+
+curl https://wwwiyahoo.com			> view html tags in terminal
+wget https://wwwiyahoo.com -O top.html		> get html tags and save it in html file
+============================================================================================
+============================================================================================
+============================================================================================
+
+
+
+
+

@@ -1,0 +1,230 @@
+
+				C # / C Sharp Tool
+				*******************
+===================================================================================================
+===================================================================================================
+tool tip 
+*********
+
+this tool for add hint to any tool or any control
+===================================================================================================
+Picture Box
+************
+
+OpenFileDialog top = new OpenFileDialog();
+top.Title = "choose pictures";
+top.InitialDirectory = Environment.GetFolderPath(Environment.SpecialFolder.Desktop );
+top.Filter = "Images |*.jpg; *.png; *.gif";
+if(top.ShowDialog() == DialogResult.OK)
+{
+picbox.Image = Image.FromFile(top.FileName);
+}
+picbox.BackColor = Color.FromArgb(0, 0, 0, 0);
+
+1\ pictureBox1.Image = Image.FromFile("E:\\top.png");
+===================================================================================================
+Timer
+*****
+
+label1.Text = (DateTime.Now.ToString());
+timer1.Enabled = true;
+===================================================================================================
+Track Bar
+*********
+
+label1.Text = "track bar values = 0 " + trackBar1.Value.ToString();
+MessageBox.Show(trackBar1.Value.ToString());
+===================================================================================================
+Date Time Picker
+or
+Month Calendar
+****************
+
+for calender an date
+===================================================================================================
+Web Browser
+***********
+
+webBrowser1.Navigate("https://www.google.com");
+webBrowser1.GoBack();
+webBrowser1.GoForward();
+webBrowser1.GoHome();
+webBrowser1.GoSearch();
+webBrowser1.Refresh();
+webBrowser1.DocumentText = TextBox1.Text;		> simple html editor
+===================================================================================================
+Link Lable
+**********
+
+using System.Diagnostics;
+Process.Start("https://www.yahoo.com");
+Process.Start("E:\\Top Team1.txt");
+Process.Start("Firefox");
+===================================================================================================
+Radio Button
+************
+
+if( radioButton1.Checked)
+{
+textBox1.Text = radioButton1.Text;
+}
+===================================================================================================
+Flow Layout Panel
+*****************
+
+this panel putiful panel its doing tidy of things
+===================================================================================================
+Table LayoutPanel
+******************
+
+this panel like table
+===================================================================================================
+Tree View
+**********
+
+tree.Nodes.Add("animall");			> root
+tree.Nodes.Add("browsers");			> root
+tree.Nodes[0].Nodes.Add("lion");		> add parent
+tree.Nodes[1].Nodes.Add("Google");		> add parent
+tree.Nodes[1].Nodes[0].Nodes.Add("opera");	> add another parent
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+label1.Text = treeView1.SelectedNode.Text;	> get selected item name
+===================================================================================================
+Image List
+**********
+
+group images its used in any control in this form
+===================================================================================================
+Rich Text Box
+**************
+
+this tool lick text box but in this tool can change color and size any text
+===================================================================================================
+List View
+**********
+
+listView1.Columns.Add("Browser");	> add header
+listView1.Items.Add("Google", 0);	> add item in first field
+listView1.Items.Add("Opera", 1);	> add item in second field
+listView1.Groups.Add("", "Browsers");	> create group
+listView1.Items[0].Groups = listView1.Groups[0];	> add fiels to group
+listView1.View = View.LargeIcon;	> view mode
+===================================================================================================
+Menu Strip
+***********
+
+this tool like bar contain file, edit, tool, help
+we can add standard items through Arrow tool up and choose insert standard items
+===================================================================================================
+status strip
+************
+
+this tool to make tail in under  form
+===================================================================================================
+Tool Strip
+***********
+
+this tool like tool bar in microsoft office
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+beautiful property for this tool :
+
+1\ Display Style	> view mode
+2\ Image Scaling	> view item by physical size
+3\ Text Image Relation	> view item name and item img
+===================================================================================================
+Tool Strip Container
+********************
+
+this tool to ability add some tool in her
+and ability to move in any place in form
+===================================================================================================
+Contex Menu Strip
+*****************
+
+this tool like menue when right click 
+===================================================================================================
+Status Strip
+************
+
+its bar under form
+===================================================================================================
+Tab Control
+***********
+its like browser
+
+tabControl1.SelectTab(2);		> select tab by index
+===================================================================================================
+V Scroll Bar
+H Scroll Bar
+************
+
+like track bar tool
+===================================================================================================
+Notify Icon
+************
+
+notifyIcon1.Icon = this.Icon;
+notifyIcon1.BalloonTipText = "please update";	> text show
+notifyIcon1.ShowBalloonTip(1000);		> showing time
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+e.Cancel = true;	> cancle close form
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+this.Hide();
+notifyIcon1.ShowBalloonTip		> tool property
+(1000, "mina top", "welcome mina", ToolTipIcon.Warning);
+this.show();
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+this tool to make form is work after close it
+===================================================================================================
+===================================================================================================
+				Dialog Tools
+				************
+===================================================================================================
+===================================================================================================
+Color Dialog
+Font Dialog
+************
+
+ColorDialog top = new ColorDialog();
+DialogResult asd;
+asd = top.ShowDialog();
+if(asd == DialogResult.OK)
+colorName.Text = top.Color.Name;
+colorARGB.Text = top.Color.A;
+colorARGB.Text = top.Color.G;
+===================================================================================================
+Open File Dialog
+*****************
+
+Using System.IO;
+OpenFileDialog asd = new OpenFileDialog();
+if(asd.ShowDialog() == DialogResult.OK)
+asd.Filter  = "mina top |*.PNG; *.JPG; *.GIF ";
+asd.title = "choose file";
+asd.Multiselect = true;
+asd.InitalDirectory = "C:\\";
+asd.InitalDirectory = Enviroment.GetFolderPath(Enviroment.SpecialFolder.Desktop);
+asd.showDialog();
+path.Text = asd.FileName;
+name.Text = Path.GetFileName(asd.FileName);	> get file name
+ext.Text = Path.GetExtension(asd.FileName);	> get file extension
+===================================================================================================
+Folder Browser Dialog
+**********************
+this tool to browser folder
+
+string a = folderBrowserDialog1.SelectedPath	> get selected folred path
+===================================================================================================
+Save File Dialog
+*****************
+
+Using System.IO;
+SaveFileDialog asd = new SaveFileDialog();
+asd.title = "choose file";
+asd.InitalDirectory = "C:\\";
+asd.InitalDirectory = Enviroment.GetFolderPath(Enviroment.SpecialFolder.Desktop );
+asd.showDialog();
+if(asd.ShowDialog() == DialogResult.OK)
+===================================================================================================
+===================================================================================================
+===================================================================================================

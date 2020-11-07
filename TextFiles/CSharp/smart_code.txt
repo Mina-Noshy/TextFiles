@@ -1,0 +1,145 @@
+						<-- smart code -->
+==============================================================================================================
+==============================================================================================================
+<-- system info -->
+
+1\ string a = Environment.UserDomainName;
+2\ string a = Environment.MachineName;
+3\ string a = Environment.UserName;
+4\ string a = Environment.OSVersion.ToString();
+5\ string a = Environment.Version.ToString();
+6\ string a = Environment.SystemPageSize.ToString();
+7\ string a = Environment.SystemDirectory;
+8\ string a = Environment.GetFolderPath(Environment.SpecialFolder.Desktop).ToString();
+==============================================================================================================
+<-- desk info-->
+
+1\ using System.IO;
+2\ DriveInfo dv = new DriveInfo("D:");
+3\ double a = dv.AvailableFreeSpace;
+4\ double b = dv.TotalFreeSpace;
+5\ double a = dv.TotalSize;
+==============================================================================================================
+<-- view all files in any directory -->
+
+foreach (string a in Directory.GetFiles("E:\\documents\\c_sharp"))
+{
+listBox1.Items.Add(a);
+}
+
+or
+
+DirectoryInfo d = new DirectoryInfo("E:\\documents\\c_sharp");
+foreach(FileInfo a in d.GetFiles())
+{
+listBox1.Items.Add(a.Name);
+}
+
+==============================================================================================================
+<-- move copy remove files -->
+
+File.Move("D:\\top.txt", "E:\\top.txt");
+File.Copy("D:\\top.txt", "E:\\top.txt");
+File.Delete("D:\\top.txt");
+
+or
+
+FileInfo fn = new FileInfo("E:\\top.txt");
+fn.MoveTo("D:\\top.txt");
+fn.CopyTo("D:\\top.txt");
+fn.Delete();
+==============================================================================================================
+<-- get text from text file-->
+
+richTextBox1.Lines = File.ReadAllLines("E:\\top_team.txt");
+richTextBox1.Text = File.ReadAllText("E:\\top_team.txt");
+
+or
+
+FileStream fs = new FileStream("E:\\top.txt", FileMode.OpenOrCreate);
+StreamReader sr = new StreamReader(fs);
+richTextBox1.Text = sr.ReadToEnd();
+
+or
+
+StreamReader sr = new StreamReader("E:\\top.txt");
+richTextBox1.Text = sr.ReadToEnd();
+==============================================================================================================
+<-- write in text file -->
+
+File.WriteAllLines("E:\\top.txt", richTextBox1.Lines);
+File.AppendAllLines("E:\\top.txt", richTextBox1.Lines);
+
+or
+
+File.WriteAllText("E:\\top.txt", "my name is mina top");
+File.AppendAllText("E:\\top.txt", "my name is mina top");
+
+or
+
+FileStream fs = new FileStream("E:\\top.txt", FileMode.Create);
+StreamWriter sw = new StreamWriter(fs);
+sw.WriteLine(richTextBox1.Text);
+sw.Close();
+
+or
+
+StreamWriter sw = new StreamWriter("E:\\top.txt");
+sw.WriteLine(richTextBox1.Text);
+sw.Close();
+==============================================================================================================
+<-- execute command when click on shift+enter -->
+
+1 - in key down event
+
+if (e.Shift && e.KeyCode == Keys.Enter)
+{
+// code here
+}
+==============================================================================================================
+<-- input just double values -->
+
+1 - in key press event
+
+if (!char.IsDigit(e.KeyChar) && !char.IsControl(e.KeyChar) && e.KeyChar != '.')
+{
+e.Handled = true;
+}
+
+or
+
+e.Handled = !char.IsDigit(e.KeyChar) && !char.IsControl(e.KeyChar) && e.KeyChar != '.';
+==============================================================================================================
+<-- get key pressed -->
+
+1 - in key down event
+
+if (e.KeyData == Keys.M)
+{
+MessageBox.Show(e.KeyData.ToString());
+}
+==============================================================================================================
+<-- show password -->
+
+txtPassword.PasswordChar = checkBox1.Checked ? '\0' : '*';
+==============================================================================================================
+<-- get mac addres -->
+
+using System.Net.NetworkInformation;
+
+public string GetMACAddress()
+{
+    NetworkInterface[] nics = NetworkInterface.GetAllNetworkInterfaces();
+    String sMacAddress = string.Empty;
+    foreach (NetworkInterface adapter in nics)
+    {
+        if (sMacAddress == String.Empty)// only return MAC Address from first card  
+        {
+            IPInterfaceProperties properties = adapter.GetIPProperties();
+            sMacAddress = adapter.GetPhysicalAddress().ToString();
+        }
+    } return sMacAddress;
+}
+==============================================================================================================
+==============================================================================================================
+==============================================================================================================

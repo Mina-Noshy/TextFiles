@@ -1,0 +1,29 @@
+using System;
+using Microsoft.AspNetCore.Identity;
+using MySite.Models;
+
+namespace MySite.Data
+{
+    public class AppDbContext : IdentityDbContext<ApplicationUser, ApplicationRole, string>
+    {
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+            
+            builder.Entity<City>().HasMany<Travel>().WithOne(m => m.CityFrom).OnDelete(DeleteBehavior.Restrict);
+            builder.Entity<City>().HasMany<Travel>().WithOne(m => m.CityTo).OnDelete(DeleteBehavior.Restrict);
+
+            builder.Entity<Travel>().HasOne<City>().WithMany(m => m.TravelFrom).OnDelete(DeleteBehavior.Restrict);
+            builder.Entity<Travel>().HasOne<City>().WithMany(m => m.TravelTo).OnDelete(DeleteBehavior.Restrict);
+        }
+
+        public AppDbContext(DbContextOptions<AppDbContext> options)
+            : base(options)
+        {
+        }
+        public DbSet<Town>  Towns { get; set; }
+        public DbSet<Travel> Travels { get; set; }
+        
+    }
+}
